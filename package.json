@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.8.0",
+    "diff": "^7.0.0",
+    "express": "^5.1.0",
+    "minimatch": "^10.0.1",
+    "zod": "^3.24.2"
+  },
+  "name": "em-c-peas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node client.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fiyin-Anne/emcpeas.git"
+  },
+  "author": "Fiyinfoluwa Akinsiku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fiyin-Anne/emcpeas/issues"
+  },
+  "homepage": "https://github.com/Fiyin-Anne/emcpeas#readme"
+}
